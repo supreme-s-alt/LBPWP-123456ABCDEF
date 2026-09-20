@@ -1,0 +1,2 @@
+# Only track Python packer cache with LFS (not served by GitHub Pages)
+# docs/data/ is NOT tracked by LFS — GitHub Pages needs to serve real files
